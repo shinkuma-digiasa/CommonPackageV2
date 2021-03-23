@@ -1,0 +1,6 @@
+[submodule "data/CmmonPackage1"]
+	path = data/CmmonPackage1
+	url = https://github.com/shinkuma-digiasa/CommonPackageV2
+[submodule "data/CmmonPackage2"]
+	path = data/CmmonPackage2
+	url = https://github.com/shinkuma-digiasa/CommonPackageV2.git
